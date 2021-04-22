@@ -38,7 +38,7 @@ Make sure to enable the rule:
 Rule1 1
 ```
 
-If relays still don't switch try `BaudRate 9600`
+If relays still don't switch try `BaudRate 9600` or 'BaudRate 115200'
 
 
 
